@@ -1,1 +1,1 @@
-The code for manuscript
+Manuscript code. The manuscript will be uploaded after it is accepted.
